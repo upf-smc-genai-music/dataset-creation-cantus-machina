@@ -1,1 +1,16 @@
-{}
+{
+    "parameter_1": {
+        "name": "rainfall_rate",
+        "type": "continuous",
+        "unit": "mm/h",
+        "min": 2.0,
+        "max": 120.0
+    },
+    "parameter_2": {
+        "name": "drop_diameter",
+        "type": "continuous",
+        "unit": "mm",
+        "min": 0.5,
+        "max": 5.0
+    }
+}
